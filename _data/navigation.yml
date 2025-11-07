@@ -14,8 +14,8 @@ main:
   - title: "Academic Activities"
     url: /activities/    
 
-  - title: "Awards"
-    url: /awards/    
+  #- title: "Awards"
+  # url: /awards/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
