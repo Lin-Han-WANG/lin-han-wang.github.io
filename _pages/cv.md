@@ -12,25 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Neurosciences, Institute of neuroscience, Centre for Excellence in Brain Science and Intelligence Technology
-Chinese Academy of Sciences, University of Chinese Academy of Sciences, Supervisor: Dr. Yangang SUN, 2019-2026
+Chinese Academy of Sciences, University of Chinese Academy of Sciences, 2019-2026
+Supervisor: Dr. Yangang SUN
 * B.S. in Biology, Yunnan University, 2015-2019
-
-Academic Activities
-======
-* Summer 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Summer 2023: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -38,9 +22,15 @@ Skills
   * Surgery: Stereotactic injection; GRIN lens implantation
   * Data collection with miniscope
   * Data analysis (MATLAB/Python)
-* Behavior test(mice)
+* Behavior test (mice)
 * Optogenetics and chemogenectics in the mouse brain and spinal cord
-* 
+
+Awards
+======
+* National schoolarship, 2020
+* RWD Preclinical Medicine Enlightenment Scholarship, 2024
+* Paizhen Qiushi schoolarship, 2024
+* National schoolarship, 2025
 
 Publications
 ======
@@ -48,18 +38,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
