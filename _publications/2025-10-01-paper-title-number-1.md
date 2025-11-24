@@ -9,5 +9,5 @@ venue: 'Neuron'
 status: "under_revision"
 #slidesurl: 'http://lin-han-wang.github.io/files/slides3.pdf'
 paperurl: 'http://lin-han-wan.github.io/files/paper1.pdf'
-citation: 'Wang, L., Han, Y., Zhou, W., Li, Q., Sun, Y.* (2025) Alteration of cellular representation in the central amygdala mediates stress-induced analgesia. Neuron, Under revision.'
+citation: 'Wang, LH, Han, YF, Zhou, WQ, Li, Q, Sun, YG*. (2025) Alteration of cellular representation in the central amygdala mediates stress-induced analgesia. Neuron under revision'
 ---
