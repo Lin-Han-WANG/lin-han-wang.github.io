@@ -9,5 +9,5 @@ venue: 'Neuron'
 status: "published"
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://lin-han-wang.io/files/paper3.pdf'
-citation: 'Deng, J., Zhou, H., Lin, J.K., Shen, Z.X., Chen, W.Z., Wang, L.H., Li, Q., Mu, D., Wei, Y.C., Xu, X.H., and Sun, Y.G. (2020). The Parabrachial Nucleus Directly Channels Spinal Nociceptive Signals to the Intralaminar Thalamic Nuclei, but Not the Amygdala. Neuron 107, 909-923 e906. 10.1016/j.neuron.2020.06.017.'
+citation: 'Deng J*, Zhou H, Lin JK, Shen ZX, Chen WZ, Wang LH, Li Q, Mu D, Wei YC, Xu XH, Sun YG*. (2020) The parabrachial nucleus directly channels spinal nociceptive signals to the intralaminar thalamic nuclei, but not the amygdala. Neuron 107:909-923.'
 ---
