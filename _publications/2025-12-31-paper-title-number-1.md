@@ -2,9 +2,9 @@
 title: "Alteration of cellular representation in the central amygdala mediates stress-induced analgesia"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-10-01-paper-title-number-1
+permalink: /publication/2025-12-31-paper-title-number-1
 excerpt: ''
-date: 2025-10-01
+date: 2025-12-31
 venue: 'Neuron'
 status: "under_revision"
 #slidesurl: 'http://lin-han-wang.github.io/files/slides3.pdf'
