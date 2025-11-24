@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Neurosciences, Institute of neuroscience, Centre for Excellence in Brain Science and Intelligence Technology
-Chinese Academy of Sciences, University of Chinese Academy of Sciences, 2019-2026
-Supervisor: Dr. Yangang SUN
+* Ph.D. in Neurosciences, Institute of neuroscience, Centre for Excellence in Brain Science and Intelligence Technology
+Chinese Academy of Sciences, University of Chinese Academy of Sciences, 2019-2026, Supervisor: Dr. Yangang SUN
 * B.S. in Biology, Yunnan University, 2015-2019
   
 Skills
@@ -22,7 +21,7 @@ Skills
   * Surgery: Stereotactic injection; GRIN lens implantation
   * Data collection with miniscope
   * Data analysis (MATLAB/Python)
-* Behavior test (mice)
+* Behavior paradigm design and test (mice)
 * Optogenetics and chemogenectics in the mouse brain and spinal cord
 
 Awards
@@ -30,6 +29,7 @@ Awards
 * National schoolarship, 2020
 * RWD Preclinical Medicine Enlightenment Scholarship, 2024
 * Paizhen Qiushi schoolarship, 2024
+* CNS-RWD Excellent Conference Poster, 2025
 * National schoolarship, 2025
 
 Publications
