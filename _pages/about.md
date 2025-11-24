@@ -12,7 +12,7 @@ I successfully defended my Ph.D. in Neuroscience in November 2025 at the Institu
 
 What I study
 ======
-During my PhD, I combined single-cell calcium imaging (miniscope), circuit tracing, and opto-/chemogenetic manipulations to explore how stress modulates pain at the cellular and circuit level. I characterized how distinct neuronal subtypes in the central amygdala (CeA)—a hub for affective and nociceptive signals—represent nociceptive information. We revealed how stress reshapes these representations, identified the specific neuronal populations involved, and mapped key upstream brain regions and signaling pathways that convey stress-related signals. This work provides new insights into the cellular basis of stress-induced analgesia and illustrates how internal states dynamically shape sensory processing.
+During my PhD, I combined single-cell calcium imaging (miniscope), circuit tracing, and opto-/chemogenetic manipulations to explore how stress modulates pain at the cellular and circuit level. I characterized how distinct neuronal subtypes in the central amygdala (CeA)—a hub for affective and nociceptive signals—represent nociceptive information. We revealed how acute stress modulates these representations, identified the specific neuronal populations involved, and mapped key upstream brain regions and signaling pathways that convey stress-related signals. This work provides new insights into the cellular basis of stress-induced analgesia and illustrates how internal states dynamically shape sensory processing.
 
 Skills & Approach
 ======
