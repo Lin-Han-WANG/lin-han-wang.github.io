@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Neurosciences, Institute of neuroscience, Centre for Excellence in Brain Science and Intelligence Technology
+** Ph.D. in Neurosciences, Institute of neuroscience, Centre for Excellence in Brain Science and Intelligence Technology
 Chinese Academy of Sciences, University of Chinese Academy of Sciences, 2019-2026
   * Supervisor: Dr. Yangang SUN
-* B.S. in Biology, Yunnan University, 2015-2019
+** B.S. in Biology, Yunnan University, 2015-2019
   
 Skills
 ======
