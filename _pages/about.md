@@ -8,11 +8,11 @@ redirect_from:
 ---
 Who I am
 ======
-I recently completed my Ph.D. in Neuroscience at the Institute of Neuroscience (ION), Center for Excellence in Brain Science and Intelligence Technology (CEBSIT), Chinese Academy of Sciences (CAS). My doctoral research focused on how internal emotional states modulate sensory processing.
+I successfully defended my Ph.D. in Neuroscience in November 2025 at the Institute of Neuroscience (ION), Center for Excellence in Brain Science and Intelligence Technology (CEBSIT), Chinese Academy of Sciences (CAS), under the supervision of Dr. Yangang SUN. My doctoral research focused on how internal emotional states modulate sensory processing.
 
 What I study
 ======
-In my doctoral research, I employed single-cell calcium imaging (miniscope), circuit tracing, and opto-/chemo-genetic manipulations to dissect the cellular and circuit basis of stress induced analgesia. We provided the comprehensive characterization of how distinct neuronal subtypes in central amygdala (CeA, a hub that integrates affective and nociceptive signals) represent nociceptive information. Critically, we demonstrated how stress alters pain representation in the CeA and identified the specific neuronal populations involved in this modulation. Furthermore, we uncovered key upstream brain regions and signaling pathways that convey stress-related signals. This study not only fills a critical gap in our understanding of the cellular mechanisms underlying SIA but also broadens our perspective on how internal states dynamically interact with external stimuli. 
+During my PhD, I combined single-cell calcium imaging (miniscope), circuit tracing, and opto-/chemogenetic manipulations to explore how stress modulates pain at the cellular and circuit level. I characterized how distinct neuronal subtypes in the central amygdala (CeA)—a hub for affective and nociceptive signals—represent nociceptive information. We revealed how stress reshapes these representations, identified the specific neuronal populations involved, and mapped key upstream brain regions and signaling pathways that convey stress-related signals. This work provides new insights into the cellular basis of stress-induced analgesia and illustrates how internal states dynamically shape sensory processing.
 
 Skills & Approach
 ======
