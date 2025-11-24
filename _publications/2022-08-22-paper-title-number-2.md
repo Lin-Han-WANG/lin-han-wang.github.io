@@ -6,6 +6,7 @@ permalink: /publication/2022-08-22-paper-title-number-2
 excerpt: ''
 date: 2022-08-22
 venue: 'Trends in Neurosciences'
+status: "published"
 #slidesurl: 'https:///Linhan_WANG.github.io/slides1.pdf'
 paperurl: 'https://lin-han-wang.github.io/files/paper2.pdf'
 #bibtexurl: 'hhttps://lin-han-wang.github.io/files/bibtex1.bib'
