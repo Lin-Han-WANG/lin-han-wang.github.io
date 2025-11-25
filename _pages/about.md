@@ -8,7 +8,7 @@ redirect_from:
 ---
 Who I am
 ======
-I successfully defended my Ph.D. in Neuroscience in November 2025 at the Institute of Neuroscience (ION), Center for Excellence in Brain Science and Intelligence Technology (CEBSIT), Chinese Academy of Sciences (CAS), under the supervision of Dr. Yangang SUN. My doctoral research focused on how internal emotional states modulate sensory processing.
+I defended my Ph.D. in Neuroscience in November 2025 at the Institute of Neuroscience (ION), Center for Excellence in Brain Science and Intelligence Technology (CEBSIT), Chinese Academy of Sciences (CAS), under the supervision of Dr. Yangang Sun. My doctoral research focused on how internal emotional states modulate sensory processing.
 
 What I study
 ======
