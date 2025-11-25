@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Neurosciences, Institute of neuroscience, Centre for Excellence in Brain Science and Intelligence Technology
-Chinese Academy of Sciences, University of Chinese Academy of Sciences, 2019-2026. Supervisor: Dr. Yangang SUN
+* Ph.D. in Neuroscience, Institute of Neuroscience, Centre for Excellence in Brain Science and Intelligence Technology
+Chinese Academy of Sciences, University of Chinese Academy of Sciences, 2019-2026. Supervisor: Dr. Yangang Sun
 * B.S. in Biology, Yunnan University, 2015-2019
   
 Skills
@@ -26,11 +26,11 @@ Skills
 
 Awards
 ======
-* National schoolarship, 2020
+* National schoolarship, 2025
+* CNS-RWD Excellent Conference Poster, 2025
 * RWD Preclinical Medicine Enlightenment Scholarship, 2024
 * Paizhen Qiushi schoolarship, 2024
-* CNS-RWD Excellent Conference Poster, 2025
-* National schoolarship, 2025
+* National schoolarship, 2020
 
 Publications
 ======
