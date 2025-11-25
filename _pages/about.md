@@ -20,4 +20,4 @@ My Ph.D. training has provided me with deep technical expertise in calcium imagi
 
 Looking ahead
 ======
-I am broadly interested in how the brain builds internal models of the world. My long-term goal is to combine experimental and computational approaches to understand how the brain encodes the external environment and how internal states dynamically modulate these representations.
+I am broadly interested in how the brain builds internal models of the world. My long-term goal is to combine experimental and computational approaches to understand how the brain represent the external environment and how internal states dynamically modulate these representations.
